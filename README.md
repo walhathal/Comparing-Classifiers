@@ -6,7 +6,6 @@
 
 ## Contents
 - [Introduction](#introduction)  
-- [How to Use This Repository](#how-to-use-this-repository)  
 - [Business Understanding](#business-understanding)  
 - [Data Understanding](#data-understanding)  
 - [Data Preparation](#data-preparation)  
@@ -33,19 +32,6 @@ This project includes data cleaning, feature transformation, hyperparameter tuni
 - K-Nearest Neighbors (KNN)  
 - Decision Tree  
 - Support Vector Machine (SVM)
-
----
-
-## How to Use This Repository
-
-1. Clone the repository.  
-2. Open `Classifier_Comparison.ipynb` using Jupyter Notebook or Jupyter Lab.  
-3. Ensure the following libraries are installed:
-   - `pandas`
-   - `numpy`
-   - `scikit-learn`
-   - `matplotlib`
-   - `seaborn`
 
 ---
 
