@@ -56,6 +56,25 @@ The dataset is well-structured and contains no missing values. It includes categ
 - No explicit gender variable is included; marital status is the closest proxy but is not equivalent.
 - Customers contacted via cellular phone were more likely to subscribe.
 
+Displayed below are some charts providing visualization on some of the observations of the dataset.
+![image](https://github.com/user-attachments/assets/8b801896-af04-4ccb-806c-34635deca49c)
+![image](https://github.com/user-attachments/assets/27ce98f3-4d52-4690-8b71-70989666a7b9)
+
+The visualizations highlight a key insight from the data: overall, the marketing campaign had a relatively low success rate in converting customers to sign up for the long-term deposit product, regardless of customer attributes such as education, marital status, job, or contact method.
+
+However, one notable exception appears in the housing loan category. As shown in the left pie chart, 52.4% of customers with a housing loan chose to subscribe to the long-term deposit product, compared to 45.2% who did not. This contrasts sharply with the personal loan segment (right pie chart), where only 15.2% subscribed and the majority—82.4%—did not.
+
+Another way to examine campaign performance is by looking at the absolute number of successful subscriptions across different education levels. The horizontal bar chart shows that while university degree holders had the highest overall contact volume, a meaningful portion also signed up for the product. This suggests that certain education levels, particularly higher education, may correlate with increased responsiveness to the campaign. These charts provide a more nuanced view of how features like education and loan status influence marketing effectiveness.
+
+![image](https://github.com/user-attachments/assets/949d025b-42fd-48e5-8d7e-c98ebc111c25)
+![image](https://github.com/user-attachments/assets/238ecd20-bcf6-451d-9959-ae4c22f02270)
+
+To better understand the characteristics of customers who responded positively to the long-term deposit offer, we focused on successful conversions — those who subscribed (Deposit = Yes).
+
+The first bar plot shows a breakdown of accepted applications by education level. Customers with a university degree had the highest number of successful signups, followed by those with a high school education and professional courses. This suggests that higher levels of education may be associated with a greater likelihood of responding favorably to the campaign.
+
+The second bar plot displays accepted applications by job type. Here, administrative jobs stand out significantly, with the highest number of successful conversions. Other roles with notable success include technicians, blue-collar workers, and retired individuals. In contrast, jobs like housemaid, entrepreneur, and self-employed had relatively fewer successful signups. These charts offer a clearer picture of where marketing efforts were most effective and can help in identifying customer segments more likely to respond positively in future campaigns.
+
 ---
 
 ## Data Preparation
